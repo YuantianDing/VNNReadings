@@ -1,0 +1,11 @@
+[book]
+authors = ["Yuantian Ding"]
+language = "en"
+src = "src"
+title = "VNN Reading"
+
+[output.html]
+default-theme = "light"
+
+[preprocessor.katex]
+after = ["links"]
