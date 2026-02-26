@@ -2,7 +2,7 @@
 
 
 - [Basics](basics/README.md)
-  - [Zonotope and Polytope](basics/tops.md)
+  - [Zonotope and Polytope](basics/topes.md)
 - [Verification of Transformers](vtransfomers/README.md)
   - [DeepT](vtransfomers/deept.md)
   - [GaLiLeo](vtransfomers/galileo.md)
